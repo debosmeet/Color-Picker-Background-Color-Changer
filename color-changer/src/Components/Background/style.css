@@ -1,0 +1,21 @@
+.bg-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .picker-box {
+    width: 400px;
+    height: auto;
+    padding: 10px;
+    border: 4px black solid;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-style: italic;
+    background-color: white;
+  }
